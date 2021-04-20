@@ -7,12 +7,12 @@ public class User {
     private String userGender;
     private String userEmail;
 
-    public String getUserId() {
+    public String getUserID() {
         return userID;
     }
 
-    public void setUserId(String userId) {
-        this.userID = userId;
+    public void setUserID(String userID) {
+        this.userID = userID;
     }
 
     public String getUserPassword() {
